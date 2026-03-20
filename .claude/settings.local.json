@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__obsidian__list_directory",
+      "mcp__obsidian__read_note",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(gh auth:*)",
+      "Bash(git commit:*)",
+      "Bash(gh repo:*)",
+      "mcp__obsidian__write_note"
+    ]
+  }
+}
